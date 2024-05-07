@@ -1,0 +1,12 @@
+vnp_Amount=900000000
+&vnp_BankCode=NCB
+&vnp_BankTranNo=VNP14394118
+&vnp_CardType=ATM
+&vnp_OrderInfo=Thanh+Toán+Đơn+Hàng
+&vnp_PayDate=20240426171600
+&vnp_ResponseCode=00
+&vnp_TmnCode=828HPVB8
+&vnp_TransactionNo=14394118
+&vnp_TransactionStatus=00
+&vnp_TxnRef=7127
+&vnp_SecureHash=22dc45ee662b98e871c4abecca7146c666c1f2e134e788e59e8ea01d182441f3b4c052fe3bfb163593163259eb24587e30e9164ebc6c2b4e9edff1d8719124ab
